@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HamburguesaController.viewDidLoad() -&gt; ():HamburguesaController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(Int(arc4random()) % (colors.count - 1))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HamburguesaController.buttonPress(AnyObject) -&gt; ():HamburguesaController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "colors.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ColeccionDeHamburguesa.obtenHamburguesa() -&gt; String:Datos.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int(arc4random())">
+            </PersistentString>
+            <PersistentString
+               value = "Int(Int(arc4random()) % (hamburguesas.count - 1))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
